@@ -1,1 +1,2 @@
-# Learn-Rust-by-Building-Real-Applications
+# Learn Rust by Building Real Applications
+
